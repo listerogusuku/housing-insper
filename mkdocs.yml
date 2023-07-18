@@ -101,8 +101,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/listerogusuku
-    - icon: fontawesome/brands/youtube
-      link: www.youtube.com/@listerogusuku
+    # - icon: fontawesome/brands/youtube
+    #   link: www.youtube.com/@listerogusuku
     # - icon: fontawesome/brands/gitter
     #   link: https://gitter.im/squidfunk/mkdocs-material
     # - icon: fontawesome/brands/docker

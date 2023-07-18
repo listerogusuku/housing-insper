@@ -1,6 +1,6 @@
 ---
 template: home.html
-title: Material for MkDocs
+title: Página Inicial
 ---
 
-Welcome to Material for MkDocs.
+Bem-vindo ao Inside Insper!
