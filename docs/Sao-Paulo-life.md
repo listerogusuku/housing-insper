@@ -32,8 +32,26 @@ Em um raio de 2km do Insper estão localizados **4 shoppings**, sendo eles (em o
 
 A poucos metros do Insper está localizado, ainda, o maior centro financeiro e tecnológico do Brasil: a **Avenida Brigadeiro Faria Lima** _(local ocasionalmente descrito como "Vale do Silício brasileiro")_, o qual abriga a sede de empresas como **Google, Facebook, Shopee, LinkedIn, Itaú, BTG Pactual, Cimed, JP Morgan, Morgan Stanley, entre outras** _(e, sim, todas essas empresas amam os alunos do Insper, então prepare-se para a possibilidade de estagiar ou ser contratado por alguma delas durante ou após a graduação)._
 
-Agora que você já conheceu um pouco melhor o ambiente em que você irá conviver pelos próximos (pelo menos) 4 anos, **vamos conhecer melhor algumas oportunidades de moradias mais**
-**utilizadas e recomendadas pelos alunos da instituição!**
+## Bairros mais comuns dos alunos do Insper
+
+Em uma pesquisa feita com estudantes da graduação do Insper entre março e abril de 2023, foi possível constatar que **os bairros mais comuns** escolhidos como moradia pelos estudantes
+da instituição são:
+
+**1º - Vila Olímpia** _(local em que o Insper está localizado)_
+
+**2º - Moema**
+
+**3º - Vila Nova Conceição**
+
+**4º - Itaim**
+
+**5º - Brooklin**
+
+Pelo fato da maioria dos estudantes do Insper escolherem morar em bairros próximos a instituição, o meio de locomoção mais comum é **a pé**, seguido por **carro próprio/transporte por** **aplicativo/carona com outros estudantes, ônibus ou metrô, bicicleta/patinete.**
+
+Ambos os prédios do Insper contam com **estacionamentos** (terceirizados e pagos) localizados nos subsolos, além de também possuir **biciletários** (gratuitos) para estudantes que utilizam bike como forma de locomoção. Na rua entre os prédios do Insper (Uberabinha) também há uma estação de **locação de bicicletas** (as famosas e laranjinhas **_"Bikes Itaú"_**), com planos diários, mensais e anuais para quem deseja se locomover de forma mais flexível sem ter que comprar uma bicicleta própria.
+
+Agora que você já entendeu um pouco melhor a dinâmica seguida por parte dos alunos da instituição e também já conheceu um pouco melhor o ambiente em que você irá conviver pelos próximos (pelo menos) 4 anos, **vamos conhecer melhor algumas oportunidades de moradias mais utilizadas e recomendadas pelos alunos da instituição!**
 
 <!-- After you've [installed] Material for MkDocs, you can bootstrap your project
 documentation using the `mkdocs` executable. Go to the directory where you want

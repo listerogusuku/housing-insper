@@ -172,8 +172,8 @@ nav:
   #   - Changelog:
   #     - changelog/index.md
   #     - How to upgrade: upgrade.md
-    - Moradias até 500 metros do Insper:
-      - contributing/index.md
+    # - Moradias até 500 metros do Insper:
+    #   - contributing/index.md
     #   - Reporting a bug: contributing/reporting-a-bug.md
   #     - Reporting a docs issue: contributing/reporting-a-docs-issue.md
   #     - Requesting a change: contributing/requesting-a-change.md
@@ -206,8 +206,7 @@ nav:
   #     - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   #   - Dependencies:
   #     - setup/dependencies/image-processing.md
-  - Moradias exclusivamente femininas:
-    - reference/index.md
+  - Vagas em apartamentos divulgadas por alunos do Insper: vagas-aptos-insper.md
   #   - Admonitions: reference/admonitions.md
   #   - Annotations: reference/annotations.md
   #   - Buttons: reference/buttons.md

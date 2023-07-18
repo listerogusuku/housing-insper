@@ -1,12 +1,201 @@
 # :house: **HOUSING INSPER**
 
-O **Housing Insper** foi criado pelo estudante do 7º semestre da Engenharia de Computação do Insper, Lister Ogusuku Ribeiro [(@insperinside)](https://www.instagram.com/insperinside/), com a intenção de compilar, num único site, as **opções de moradias mais utilizadas e recomendadas pelos nossos alunos**, sobretudo pensando nos calouros da graduação recém-chegados em São Paulo.
+<div align="center" style="max-width:300rem;">
+<table>
+<tr>
+<th>Sobre o Desenvolvedor</th>
+<th>Github</th>
+</tr>
+<tr>
+<td>
+<pre>
+
+Nome: Lister Ogusuku Ribeiro
+Curso: Engenharia de Computação
+Semestre: 6º (2023.1)
+Instagram: @insperinside
+LinkedIn: Lister Ogusuku Ribeiro
+Contato: listeror@al.insper.edu.br
+
+</pre>
+</td>
+<td>
+
+<div align="center" style="max-width:200rem;">
+<table>
+  <tr>
+   <td align="center"><a href="https://github.com/listerogusuku"><img style="border-radius: 60%;" src="https://avatars.githubusercontent.com/listerogusuku" width="60px;" alt=""/><br /><sub><b>Lister Ogusuku</b></sub></a><br /><a href="https://github.com/listerogusuku" title="Lister Ogusuku Ribeiro"></a>Developer</td>
+
+  </tr>
+</table>
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+O **Housing Insper** foi criado pelo estudante do 6º semestre da Engenharia de Computação do Insper, Lister Ogusuku Ribeiro [(@insperinside)](https://www.instagram.com/insperinside/), com a intenção de compilar, num único site, as **opções de moradias mais utilizadas e recomendadas pelos nossos alunos**, sobretudo pensando nos calouros da graduação recém-chegados em São Paulo.
 
 !!! warning "Aviso"
 
     Todas as opções aqui apresentadas **não representam uma indicação direta do Insper**, mas sim **indicações baseadas em feedbacks coletados de alguns alunos da graduação da instituição.**
 
-    *A última atualização do conteúdo foi realizada em julho de 2023.*
+    *O Insper não faz indicações próprias nem possui parceria com corretores, condomínios, colivings e/ou student housing.*
+
+    A cópia, integral ou parcial, do conteúdo aqui apresentado é proibida sem autorização prévia do desenvolvedor.
+
+    *A última atualização do conteúdo aqui apresentado foi realizada em julho de 2023.*
+
+## Moradias até 500 metros do Insper
+
+Para os estudantes que desejam morar bem perto do Insper, as opções mais indicadas pelos estudantes da instituição podem ser conferidas abaixo.
+Lembre-se que a tendência é que os valores de moradia mais próximos ao Insper sejam consideravelmente mais altos em relação a outros locais, trouxemos aqui aproximações de valores com base nos feedbacks recebidos e com base em informações disponibilizadas na Web.
+
+### Condomínio Igloo
+
+O Igloo (R. Quatá, 339) fica localizado em frente ao Prédio 1 do Insper (R. Quatá, 300). Segundo informações de estudantes do Insper e também de sites online, o Igloo possui cerca de **1 quarto por imóvel** e **apartamentos em torno de 39m².** O custo do **condomínio gira em torno de 800 reais** e o valor médio para **alugar gira em torno dos 4 mil reais.**
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![Igloo Insper](./imagens-condominios/igloo-insper.png)
+
+#### Vantagens:
+
+Localização: Em frente ao Prédio 1 do Insper
+
+#### Desvantagens:
+
+Preço
+
+### Seed Vila Olímpia
+
+O Seed (R. Quatá, 181) fica localizado em frente ao Prédio 2 do Insper (R. Quatá, 200). Segundo informações de estudantes do Insper e também de sites online, o Seed possui imóveis com **2 quartos** e **apartamentos entre 81m² e 83m².** O custo do **condomínio gira em torno de 1400 reais** e o valor médio para **alugar gira em torno dos 8300 reais.**
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![Seed Vila Olímpia Insper](./imagens-condominios/seed.png)
+
+#### Vantagens:
+
+Localização: Em frente ao Prédio 2 do Insper, apartamentos maiores, possibilidade de dividir apartamento
+
+#### Desvantagens:
+
+Preço
+
+### Be Design
+
+O Be Design (R. Baluarte, 125) fica localizado a cerca de 230 metros do Insper. Segundo informações de estudantes do Insper e também de sites online, o Be Design possui imóveis com **1 a 2 quartos** e **apartamentos entre 29m² e 32m².** O custo do **condomínio gira em torno de 757 reais** e o valor médio para **alugar gira em torno dos 3200 reais.**
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![Be Design Insper](./imagens-condominios/be-design.png)
+
+#### Vantagens:
+
+Localização, possibilidade de dividir apartamento
+
+#### Desvantagens:
+
+Apartamentos compactos
+
+### Kasa Coliving
+
+O Kasa (R. Casa do Ator, 99) fica localizado a cerca de 280 metros do Insper. Segundo informações de estudantes do Insper e também do site oficial do coliving, o Kasa possui várias opções de apartamentos, como _Single Studio, Shared Studio, Single Suite, Suite Casal e Studio Casal_, com apartamentos que giram em torno de **25m² a 30m².**
+
+O custo do **condomínio gira em torno de 760-890 reais** _(valor variável de acordo com o m² do apartamento escolhido)_ e o valor médio para alugar também varia de acordo com o tempo de contrato e tipo e tamanho de apartamento escolhido, cujos valores (para um contrato de 12 meses) variam entre **2730 a 4095 reais.**
+
+Um dos diferenciais é a opção de **Shared Studio** (apartamento compartilhado), cujo valor do aluguel é de **3045 reais** e há possibilidade do estudante dividir a moradia com outro estudante.
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![Kasa Coliving](./imagens-condominios/kasa.jpg)
+
+#### Vantagens:
+
+Localização, possibilidade de dividir apartamento, preço um pouco menor e clareza de informações e fotos no site
+
+#### Desvantagens:
+
+Apartamentos compactos
+
+### Condomínio Nex One Itaim
+
+O Nex One (Av. Santo Amaro, 1342 - Vila Nova Conceição) fica localizado a cerca de 450 metros do Insper. Por ser um prédio novo (construído em 2022), não possuímos uma vasta quantidade de informações sobre ele e as informações que conseguimos na internet falam apenas sobre valores de venda dos apartamentos. Como recebemos indicações de estudantes do Insper sobre o Nex One, deixaremos aqui o que obtivemos:
+
+Os apartamentos do Nex One variam de **26m² a 74m²**, podendo conter até **1 quarto (1 suíte), 2 banheiros e 1 vaga de garagem.** O valor do **condomínio é de 860 reais** e o **valor dos imóveis varia entre 150 a 639 mil reais.**
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![Nex One Itaim Insper](./imagens-condominios/nex-one-itaim.jpg)
+
+#### Vantagens:
+
+Apartamentos maiores, prédio novo
+
+#### Desvantagens:
+
+Falta de informações mais detalhadas no site, localização em avenida movimentada
+
+## Moradias de 500 metros a 1km do Insper
+
+### Edifício D'Artagnan
+
+O D'Artagnan (R. Gomes de Carvalho, 83 - Vila Olímpia) fica localizado a cerca de 500 metros do Insper. Segundo informações de estudantes do Insper e também de sites online, o D'Artagnan possui imóveis com **2 a 3 quartos** e **apartamentos a partir de 76m².** O custo do **condomínio gira em torno de 851 reais** e o valor médio para **alugar gira em torno dos 3400 reais.**
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![Dartagnan Vila Olímpia Insper](./imagens-condominios/dartagnan-vila-olimpia.png)
+
+#### Vantagens:
+
+Apartamentos maiores e com até 3 quartos, possibilidade de dividir apartamento
+
+#### Desvantagens:
+
+Localização: um pouco mais distante do Insper
+
+### Domus Garden Coliving (Coliving para mulheres)
+
+O Domus Garden (R. Ribeirão Claro, 547) fica localizado a cerca de 520 metros do Insper. Não obtivemos informações sobre preços praticados pelo coliving, mas por ser composto por ambientes, quartos e áreas compartilhadas (e também por estar mais distante do Insper) imaginamos que os valores sejam menores. **Recomendamos tentar entrar em contato diretamente com alguém do coliving para mais informações.**
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![Domus Garden Coliving](./imagens-condominios/domus-garden-coliving.png)
+
+#### Vantagens:
+
+Preço, possibilidade de dividir apartamento, ambiente somente para mulheres
+
+#### Desvantagens:
+
+Ambientes compartilhados, ambiente com regras e restrições próprias, localização um pouco mais distante do Insper
+
+## Moradias entre 1 e 2km do Insper
+
+### Moema Hyde Park
+
+O Moema Hyde Park (Av. Horácio Lafer, 265 - Moema) fica localizado a cerca de 1.3km do Insper. Segundo informações de estudantes do Insper e também de sites online, o Moema Hyde Park possui imóveis com cerca de **2 quartos** e **apartamentos em torno de 55m².** O custo do **condomínio gira em torno de 700 reais** e o valor médio para **alugar gira em torno dos 2700 reais.**
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![Moema Hyde Park Insper](./imagens-condominios/moema-hyde-park-insper.png)
+
+#### Vantagens:
+
+Preço, possibilidade de dividir apartamento, bairro com mais opções de lazer, cultura e gastronomia, proximidade com as estações do metrô Moema e Eucaliptos
+
+#### Desvantagens:
+
+Localização: um pouco mais distante do Insper
+
+---
+
+!!! warning "Aviso"
+
+    Por enquanto foram essas as opções que coletamos e compilamos. Esse site **ainda está em construção e manutenção constante** para melhor se adequar às necessidades dos novos ingressantes do Insper! **Não deixe de fazer sua própria consulta na web e também não deixe de consultar outros corretores, sites e veteranos da instituição para melhor embasar sua opinião antes de tomar uma decisão.**
 
 <!-- # :cloud: **AWS SERVELESS APPLICATION S3, LAMBDA, API GATEWAY E CLOUDWATCH** -->
 
@@ -38,9 +227,9 @@ Para seguir esse tutorial é necessário: -->
 </table>
 </div> -->
 
-## :globe_with_meridians: O que é e para que serve a Computação em Nuvem?
+<!-- ## :globe_with_meridians: O que é e para que serve a Computação em Nuvem?
 
-A computação em nuvem é um modelo de tecnologia de informação que permite o acesso sob demanda a um conjunto compartilhado de recursos de computação, como servidores, armazenamento, aplicativos e serviços, por meio da internet. Em outras palavras, a computação em nuvem é uma **_forma de disponibilizar recursos computacionais através da internet, em vez de ter todos os recursos armazenados localmente em um único computador ou servidor._** Esses recursos são gerenciados e mantidos por provedores de serviços em nuvem, como a **_Amazon Web Services, Microsoft Azure e Google Cloud Platform._**
+A computação em nuvem é um modelo de tecnologia de informação que permite o acesso sob demanda a um conjunto compartilhado de recursos de computação, como servidores, armazenamento, aplicativos e serviços, por meio da internet. Em outras palavras, a computação em nuvem é uma **_forma de disponibilizar recursos computacionais através da internet, em vez de ter todos os recursos armazenados localmente em um único computador ou servidor._** Esses recursos são gerenciados e mantidos por provedores de serviços em nuvem, como a **_Amazon Web Services, Microsoft Azure e Google Cloud Platform._** -->
 
 <!-- A computação em nuvem pode ser utilizada para diversas finalidades, como **_armazenar arquivos e documentos, hospedar aplicativos, desenvolver e testar software, processar dados em larga escala, entre outras._** A principal vantagem da computação em nuvem é que ela permite que as empresas e usuários finais utilizem recursos computacionais de forma flexível e escalável, sem precisar investir em infraestrutura de TI própria. Além disso, a computação em nuvem oferece maior disponibilidade e segurança de dados do que soluções locais, já que os provedores de serviços em nuvem costumam ter data centers redundantes e medidas de segurança avançadas para proteger os dados dos usuários.
 
@@ -237,37 +426,3 @@ pip install -e mkdocs-material
 ```
 
   [GitHub]: https://github.com/squidfunk/mkdocs-material -->
-
-<div align="center" style="max-width:300rem;">
-<table>
-<tr>
-<th>Sobre o Desenvolvedor</th>
-<th>Github</th>
-</tr>
-<tr>
-<td>
-<pre>
-
-Aluno: Lister Ogusuku Ribeiro
-Contato: listeror@al.insper.edu.br
-Curso: Engenharia de Computação
-Instagram: @insperinside
-
-</pre>
-</td>
-<td>
-
-<div align="center" style="max-width:200rem;">
-<table>
-  <tr>
-   <td align="center"><a href="https://github.com/listerogusuku"><img style="border-radius: 60%;" src="https://avatars.githubusercontent.com/listerogusuku" width="60px;" alt=""/><br /><sub><b>Lister Ogusuku</b></sub></a><br /><a href="https://github.com/listerogusuku" title="Lister Ogusuku Ribeiro"></a>Developer</td>
-
-  </tr>
-</table>
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
