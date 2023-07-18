@@ -161,7 +161,7 @@ nav:
   - A vida em São Paulo: 
     - A Vida em São Paulo: Sao-Paulo-life.md
   - Moradias:
-    - O que é o Housing Insper?: about-housing-insper.md #getting-started.md
+    - Confira as opções de moradias: about-housing-insper.md #getting-started.md
     # - Conhecendo e entendendo a AWS: conhecendo-a-aws.md #creating-your-site.md
     # - Utilizando seu primeiro serviço na AWS para hospedar um site estático no S3: hospedar-um-site-estatico.md #publishing-your-site.md
     # - S3, Lambda, API Gateway e CloudWatch - Desenvolvendo a infraestrutura: desenvolvendo-a-infraestrutura.md #customization.md
@@ -222,8 +222,8 @@ nav:
   #   - Lists: reference/lists.md
   #   - Math: reference/math.md
   #   - Tooltips: reference/tooltips.md
-  # - Insiders:
-  #   - insiders/index.md
+  - Toca da Raposa (para bolsistas integrais): toca-da-raposa.md
+    # - insiders/index.md
   #   - Getting started:
   #     - Installation: insiders/getting-started.md
   #     - Changelog: insiders/changelog.md

@@ -36,7 +36,7 @@ Contato: listeror@al.insper.edu.br
 
 </div>
 
-O **Housing Insper** foi criado pelo estudante do 6º semestre da Engenharia de Computação do Insper, Lister Ogusuku Ribeiro [(@insperinside)](https://www.instagram.com/insperinside/), com a intenção de compilar, num único site, as **opções de moradias mais utilizadas e recomendadas pelos nossos alunos**, sobretudo pensando nos calouros da graduação recém-chegados em São Paulo.
+O **Housing Insper** foi desenvolvido pelo estudante do 6º semestre da Engenharia de Computação do Insper, Lister Ogusuku Ribeiro [(@insperinside)](https://www.instagram.com/insperinside/), com a intenção de compilar, num único site, as **opções de moradias mais utilizadas e recomendadas pelos nossos alunos**, sobretudo pensando nos calouros da graduação recém-chegados em São Paulo.
 
 !!! warning "Aviso"
 
@@ -143,7 +143,7 @@ Falta de informações mais detalhadas no site, localização em avenida movimen
 
 ### Edifício D'Artagnan
 
-O D'Artagnan (R. Gomes de Carvalho, 83 - Vila Olímpia) fica localizado a cerca de 500 metros do Insper. Segundo informações de estudantes do Insper e também de sites online, o D'Artagnan possui imóveis com **2 a 3 quartos** e **apartamentos a partir de 76m².** O custo do **condomínio gira em torno de 851 reais** e o valor médio para **alugar gira em torno dos 3400 reais.**
+O D'Artagnan (R. Gomes de Carvalho, 83 - Vila Olímpia) fica localizado a cerca de 500 metros do Insper. Segundo informações de estudantes do Insper e também de sites online, o D'Artagnan possui imóveis com **2 a 3 quartos** e **apartamentos a partir de 76m².** O custo do **condomínio gira em torno de 851 reais** e o valor médio para **alugar gira em torno dos 2800 reais.**
 
 **_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
 
@@ -195,7 +195,9 @@ Localização: um pouco mais distante do Insper
 
 !!! warning "Aviso"
 
-    Por enquanto foram essas as opções que coletamos e compilamos. Esse site **ainda está em construção e manutenção constante** para melhor se adequar às necessidades dos novos ingressantes do Insper! **Não deixe de fazer sua própria consulta na web e também não deixe de consultar outros corretores, sites e veteranos da instituição para melhor embasar sua opinião antes de tomar uma decisão.**
+    Por enquanto foram essas as opções que coletamos e compilamos. Nosso site **ainda está em construção e em manutenção constante** para melhor se adequar as necessidades dos novos ingressantes do Insper! **Não deixe de fazer sua própria consulta na web e também não deixe de consultar outros corretores, sites e veteranos da instituição para melhor embasar sua opinião antes de tomar uma decisão.**
+
+    *Outras "vantagens" e complementos, como presença de academia, quadras esportivas, salão para festas etc não foram incluídas aqui e devem ser conferidas diretamente com o corretor responsável pelo imóvel.*
 
 <!-- # :cloud: **AWS SERVELESS APPLICATION S3, LAMBDA, API GATEWAY E CLOUDWATCH** -->
 

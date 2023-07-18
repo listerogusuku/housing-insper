@@ -35,7 +35,7 @@ A poucos metros do Insper está localizado, ainda, o maior centro financeiro e t
 ## Bairros mais comuns dos alunos do Insper
 
 Em uma pesquisa feita com estudantes da graduação do Insper entre março e abril de 2023, foi possível constatar que **os bairros mais comuns** escolhidos como moradia pelos estudantes
-da instituição são:
+da instituição ao se mudar para São Paulo são:
 
 **1º - Vila Olímpia** _(local em que o Insper está localizado)_
 
