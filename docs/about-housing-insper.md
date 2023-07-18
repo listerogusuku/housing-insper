@@ -85,6 +85,22 @@ Localização: Em frente ao Prédio 2 do Insper, apartamentos maiores, possibili
 
 Preço
 
+### VN Quatá
+
+O VN Quatá (R. Quatá, 76) fica localizado a cerca de 190 metros do Insper. Segundo informações de estudantes do Insper e também de sites online, o VN Quatá possui imóveis com **1quarto** e **apartamentos com cerca de 27m².** O custo do **condomínio gira em torno de 800 reais** e o valor médio para **alugar gira em torno dos 3000 reais.**
+
+**_Lembre-se de sempre verificar as informações diretamente com um corretor, pois os valores podem sofrer variações ou terem sido atualizados._**
+
+![VN Quata Insper](./imagens-condominios/vn-quata.jpg)
+
+#### Vantagens:
+
+Localização
+
+#### Desvantagens:
+
+Apartamentos compactos e preço
+
 ### Be Design
 
 O Be Design (R. Baluarte, 125) fica localizado a cerca de 230 metros do Insper. Segundo informações de estudantes do Insper e também de sites online, o Be Design possui imóveis com **1 a 2 quartos** e **apartamentos entre 29m² e 32m².** O custo do **condomínio gira em torno de 757 reais** e o valor médio para **alugar gira em torno dos 3200 reais.**

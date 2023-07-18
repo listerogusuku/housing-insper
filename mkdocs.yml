@@ -111,6 +111,7 @@ extra:
     #   link: https://pypi.org/project/mkdocs-material/
     # - icon: fontawesome/brands/mastodon
     #   link: https://fosstodon.org/@squidfunk
+  generator: false
     
 
 # Extensions

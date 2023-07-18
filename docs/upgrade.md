@@ -27,7 +27,7 @@ The copy-to-clipboard buttons are now opt-in and can be enabled or disabled
 per block. If you wish to enable them for all code blocks, add the following
 lines to `mkdocs.yml`:
 
-``` yaml
+```yaml
 theme:
   features:
     - content.code.copy
@@ -39,7 +39,7 @@ A "view source" button can be shown next to the "edit this page" button, both
 of which must now be explicitly enabled. Add the following lines to
 `mkdocs.yml`:
 
-``` yaml
+```yaml
 theme:
   features:
     - content.action.edit
@@ -51,7 +51,7 @@ theme:
 The _previous_ and _next_ buttons in the footer are now opt-in. If you wish to
 keep them for your documentation, add the following lines to `mkdocs.yml`:
 
-``` yaml
+```yaml
 theme:
   features:
     - navigation.footer
@@ -92,11 +92,11 @@ changes into your templates. A good starting point is to [inspect the diff].
     - [`content.html`][content.html]
     - [`header.html`][header.html]
 
-  [inspect the diff]: https://github.com/squidfunk/mkdocs-material/pull/4628/files#diff-3ca112736b9164701b599f34780107abf14bb79fe110c478cac410be90899828
-  [MkDocs 1.4.1]: https://github.com/mkdocs/mkdocs/releases/tag/1.4.1
-  [in config.plugins]: https://github.com/squidfunk/mkdocs-material/search?q=%22in+config.plugins%22
-  [content.html]: https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/content.html
-  [header.html]: https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/header.html
+[inspect the diff]: https://github.com/squidfunk/mkdocs-material/pull/4628/files#diff-3ca112736b9164701b599f34780107abf14bb79fe110c478cac410be90899828
+[MkDocs 1.4.1]: https://github.com/mkdocs/mkdocs/releases/tag/1.4.1
+[in config.plugins]: https://github.com/squidfunk/mkdocs-material/search?q=%22in+config.plugins%22
+[content.html]: https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/content.html
+[header.html]: https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/header.html
 
 ## Upgrading from 7.x to 8.x
 
@@ -127,7 +127,7 @@ changes into your templates. A good starting point is to [inspect the diff].
 #### `pymdownx.tabbed`
 
 Support for the legacy style of the [Tabbed] extension was dropped in favor
-of the new, alternate implementation which has [better behavior on mobile 
+of the new, alternate implementation which has [better behavior on mobile
 viewports]:
 
 === "8.x"
@@ -135,7 +135,7 @@ viewports]:
     ``` yaml
     markdown_extensions:
       - pymdownx.tabbed:
-          alternate_style: true 
+          alternate_style: true
     ```
 
 === "7.x"
@@ -145,8 +145,8 @@ viewports]:
       - pymdownx.tabbed
     ```
 
-  [Tabbed]: setup/extensions/python-markdown-extensions.md#tabbed
-  [better behavior on mobile viewports]: https://twitter.com/squidfunk/status/1424740370596958214
+[Tabbed]: setup/extensions/python-markdown-extensions.md#tabbed
+[better behavior on mobile viewports]: https://twitter.com/squidfunk/status/1424740370596958214
 
 #### `pymdownx.superfences`
 
@@ -176,9 +176,9 @@ using [Mermaid.js]:
               format: !!python/name:pymdownx.superfences.fence_code_format
     ```
 
-  [SuperFences]: setup/extensions/python-markdown-extensions.md#superfences
-  [diagrams]: reference/diagrams.md
-  [Mermaid.js]: https://mermaid-js.github.io/mermaid/
+[SuperFences]: setup/extensions/python-markdown-extensions.md#superfences
+[diagrams]: reference/diagrams.md
+[Mermaid.js]: https://mermaid-js.github.io/mermaid/
 
 #### `google_analytics`
 
@@ -203,7 +203,7 @@ The following lines must be changed:
       - auto
     ```
 
-  [deprecated in MkDocs 1.2.0]: https://www.mkdocs.org/about/release-notes/#backward-incompatible-changes-in-12
+[deprecated in MkDocs 1.2.0]: https://www.mkdocs.org/about/release-notes/#backward-incompatible-changes-in-12
 
 ### Changes to `*.html` files { data-search-exclude }
 
@@ -211,8 +211,8 @@ The templates have undergone a set of changes to make them future-proof. If
 you've used theme extension to override a block or template, make sure that it
 matches the new structure:
 
-- If you've overridden a __block__, check `base.html` for potential changes
-- If you've overridden a __template__, check the respective `*.html` file for
+- If you've overridden a **block**, check `base.html` for potential changes
+- If you've overridden a **template**, check the respective `*.html` file for
   potential changes
 
 === ":octicons-file-code-16: `base.html`"
@@ -459,7 +459,7 @@ matches the new structure:
     +    </div>
     +  {% endif %}
     +  {% if not config.extra.generator == false %}
-    +    Made with
+    +    Feito com
     +    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
     +      Material for MkDocs
     +    </a>
@@ -481,7 +481,7 @@ matches the new structure:
     -          </div>
     -        {% endif %}
     -        {% if not config.extra.generator == false %}
-    -          Made with
+    -          Feito com
     -          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
     -            Material for MkDocs
     -          </a>
@@ -570,8 +570,8 @@ The templates have undergone a set of changes to make them future-proof. If
 you've used theme extension to override a block or template, make sure that it
 matches the new structure:
 
-- If you've overridden a __block__, check `base.html` for potential changes
-- If you've overridden a __template__, check the respective `*.html` file for
+- If you've overridden a **block**, check `base.html` for potential changes
+- If you've overridden a **template**, check the respective `*.html` file for
   potential changes
 
 === ":octicons-file-code-16: `base.html`"
@@ -877,8 +877,8 @@ function they apply to, e.g. `navigation.*`:
         - instant
     ```
 
-  [tabs]: setup/setting-up-navigation.md#navigation-tabs
-  [instant loading]: setup/setting-up-navigation.md#instant-loading
+[tabs]: setup/setting-up-navigation.md#navigation-tabs
+[instant loading]: setup/setting-up-navigation.md#instant-loading
 
 ### Changes to `*.html` files { data-search-exclude }
 
@@ -886,8 +886,8 @@ The templates have undergone a set of changes to make them future-proof. If
 you've used theme extension to override a block or template, make sure that it
 matches the new structure:
 
-- If you've overridden a __block__, check `base.html` for potential changes
-- If you've overridden a __template__, check the respective `*.html` file for
+- If you've overridden a **block**, check `base.html` for potential changes
+- If you've overridden a **template**, check the respective `*.html` file for
   potential changes
 
 === ":octicons-file-code-16: `base.html`"
@@ -1217,7 +1217,7 @@ was renamed to `separator`:
         tokenizer: '[\s\-\.]+'
     ```
 
-  [plugin options]: setup/setting-up-site-search.md#built-in-search-plugin
+[plugin options]: setup/setting-up-site-search.md#built-in-search-plugin
 
 #### `extra.social.*`
 
@@ -1245,11 +1245,11 @@ in order to match the new way of specifying which icon to be used:
 ### Changes to `*.html` files { data-search-exclude }
 
 The templates have undergone a set of changes to make them future-proof. If
-you've used theme extension to override a block or template, make sure that it 
+you've used theme extension to override a block or template, make sure that it
 matches the new structure:
 
-- If you've overridden a __block__, check `base.html` for potential changes
-- If you've overridden a __template__, check the respective `*.html` file for
+- If you've overridden a **block**, check `base.html` for potential changes
+- If you've overridden a **template**, check the respective `*.html` file for
   potential changes
 
 === ":octicons-file-code-16: `base.html`"
@@ -1947,7 +1947,7 @@ matches the new structure:
 
 Material for MkDocs 4 fixes incorrect layout on Chinese systems. The fix
 includes a mandatory change of the base font-size from `10px` to `20px` which
-means all `rem` values needed to be updated. Within the theme, `px` to `rem` 
+means all `rem` values needed to be updated. Within the theme, `px` to `rem`
 calculation is now encapsulated in a new function called `px2rem` which is part
 of the SASS code base.
 
