@@ -99,12 +99,12 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/listerogusuku
-    # - icon: fontawesome/brands/youtube
-    #   link: www.youtube.com/@listerogusuku
-    # - icon: fontawesome/brands/gitter
-    #   link: https://gitter.im/squidfunk/mkdocs-material
+    # - icon: fontawesome/brands/github
+    #   link: https://github.com/listerogusuku
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/insperinside/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/lister-ogusuku-ribeiro-6a1052148/
     # - icon: fontawesome/brands/docker
     #   link: https://hub.docker.com/r/squidfunk/mkdocs-material/
     # - icon: fontawesome/brands/python
