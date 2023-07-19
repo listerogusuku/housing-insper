@@ -26,11 +26,15 @@ O Insper está localizado em **2 prédios na Vila Olímpia**, sendo o **_"Prédi
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7312.475232536842!2d-46.682249074975026!3d-23.595809688663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce575374b7481f%3A0x50e5aad2656c43ed!2sInsper%20Instituto%20de%20Ensino%20e%20Pesquisa!5e0!3m2!1spt-BR!2sbr!4v1689565982791!5m2!1spt-BR!2sbr" width="1350" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+![Campus Insper Prédio 1 e Prédio 2](./imagens-condominios/campus-insper-22.png)
+
 Em um raio de 2km do Insper estão localizados **4 shoppings**, sendo eles (em ordem de distância, do mais próximo ao mais distante): **Shopping Vila Olímpia,**
 **Shopping JK Iguatemi, Shopping Ibirapuera e Shopping Cidade Jardim.** Além disso, também estão localizados 2 famosos parques públicos da capital, sendo eles o
 **Parque Ibirapuera** **_(1.5km de distância)_** e o **Parque do Povo** **_(1.8km de distância)._**
 
 A poucos metros do Insper está localizado, ainda, o maior centro financeiro e tecnológico do Brasil: a **Avenida Brigadeiro Faria Lima** _(local ocasionalmente descrito como "Vale do Silício brasileiro")_, o qual abriga a sede de empresas como **Google, Facebook, Shopee, LinkedIn, Itaú, BTG Pactual, Cimed, JP Morgan, Morgan Stanley, entre outras** _(e, sim, todas essas empresas amam os alunos do Insper, então prepare-se para a possibilidade de estagiar ou ser contratado por alguma delas durante ou após a graduação)._
+
+<iframe width="1280" height="390" src="https://www.youtube.com/embed/1sDU1y7KQ64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Bairros mais comuns dos alunos do Insper
 
@@ -49,7 +53,10 @@ da instituição ao se mudar para São Paulo são:
 
 Pelo fato da maioria dos estudantes do Insper escolherem morar em bairros próximos a instituição, o meio de locomoção mais comum é **a pé**, seguido por **carro próprio/transporte por** **aplicativo/carona com outros estudantes, ônibus ou metrô, bicicleta/patinete.**
 
-Ambos os prédios do Insper contam com **estacionamentos** (terceirizados e pagos) localizados nos subsolos, além de também possuir **biciletários** (gratuitos) para estudantes que utilizam bike como forma de locomoção. Na rua entre os prédios do Insper (Uberabinha) também há uma estação de **locação de bicicletas** (as famosas e laranjinhas **_"Bikes Itaú"_**), com planos diários, mensais e anuais para quem deseja se locomover de forma mais flexível sem ter que comprar uma bicicleta própria.
+Ambos os prédios do Insper contam com **estacionamentos** (terceirizados, pagos) localizados nos subsolos, além de também possuir **bicicletários** (gratuitos) para estudantes que utilizam bike como forma de locomoção. Na rua entre os prédios do Insper (Uberabinha) também há uma estação de **locação de bicicletas** (as famosas e laranjinhas **_"Bikes Itaú"_**), com planos diários, mensais e anuais para quem deseja se locomover de forma mais flexível sem ter que comprar uma bicicleta própria.
+
+![Bicicletário Insper Prédio 2](./imagens-condominios/bicicletario-insper.png)
+![Estacionamento Subsolo Insper Prédio 2](./imagens-condominios/estacionamento-subsolo-insper.png)
 
 Agora que você já entendeu um pouco melhor a dinâmica seguida por parte dos alunos da instituição e também já conheceu um pouco melhor o ambiente em que você irá conviver pelos próximos (pelo menos) 4 anos, **vamos conhecer melhor algumas oportunidades de moradias mais utilizadas e recomendadas pelos alunos da instituição!**
 
