@@ -32,7 +32,7 @@ Em um raio de 2km do Insper estão localizados **4 shoppings**, sendo eles (em o
 **Shopping JK Iguatemi, Shopping Ibirapuera e Shopping Cidade Jardim.** Além disso, também estão localizados 2 famosos parques públicos da capital, sendo eles o
 **Parque Ibirapuera** **_(1.5km de distância)_** e o **Parque do Povo** **_(1.8km de distância)._**
 
-A poucos metros do Insper está localizado, ainda, o maior centro financeiro e tecnológico do Brasil: a **Avenida Brigadeiro Faria Lima** _(local ocasionalmente descrito como "Vale do Silício brasileiro")_, o qual abriga a sede de empresas como **Google, Facebook, Shopee, LinkedIn, Itaú, BTG Pactual, Cimed, JP Morgan, Morgan Stanley, entre outras** _(e, sim, todas essas empresas amam os alunos do Insper, então prepare-se para a possibilidade de estagiar ou ser contratado por alguma delas durante ou após a graduação)._
+A poucos metros do Insper está localizado, ainda, o maior centro financeiro e tecnológico do Brasil: a **Avenida Brigadeiro Faria Lima** _(local ocasionalmente descrito como "Vale do Silício brasileiro")_, a qual abriga a sede de empresas como **Google, Facebook, Shopee, LinkedIn, Itaú, BTG Pactual, Cimed, JP Morgan, Morgan Stanley, entre outras** _(e, sim, todas essas empresas amam os alunos do Insper, então prepare-se para a possibilidade de estagiar ou ser contratado por alguma delas durante ou após a graduação)._
 
 <iframe width="1280" height="390" src="https://www.youtube.com/embed/1sDU1y7KQ64" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
