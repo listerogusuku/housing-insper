@@ -67,7 +67,7 @@ _Novamente, reitero que os calouros não serão obrigados a se submeter a ativid
 
 O dia 9 é um dia **somente de atividades esportivas de integração!** _Não, não haverá somente futebol!_ Teremos dezenas de atividades esportivas, como **futsal, vôlei, basketball, fit dance, capoeira, e-sports (nos laboratórios de computação/realidade virtual/jogos digitais), Bateria Imperial (para os que são apaixonados ou desejam aprender a tocas instrumentos), Insper Music (para os que também amam cantar, tocar e viver nos palcos), dentre outras atividades.**
 
-No "dia dos esportes" os calouros e veteranos presentes estarão **divididos em times de várias cores competindo entre si.** O Insper irá dar para todos **coletes personalizados** _(sim, o colete é dado pelo Insper para vocês e é de vocês, pode levar embora como lembrança!!)_ e todos irão **dar o máximo de si pelo seu time**, ganhando pontos a cada vitória e/ou atividade participada ao longo do dia. Ao final do dia dos esportes, **será revelado o time campeão e todos irão comemorar juntos com muita dança e gritos de guerra.**
+No "dia dos esportes" os calouros e veteranos presentes estarão **divididos em times de várias cores (verde, amarelo, azul e laranja) competindo entre si.** O Insper irá dar para vocês **coletes personalizados** e todos irão **dar o máximo de si pelo seu time**, ganhando pontos a cada vitória e/ou atividade participada ao longo do dia. Ao final do dia dos esportes, **será revelado o time campeão e todos irão comemorar juntos com muita dança e gritos de guerra.**
 
 Aos que desejarem saber como foi a semana de integração de fevereiro de 2023, produzi esse vídeo no Inside mostrando um pouco melhor para vocês:
 
@@ -75,7 +75,8 @@ Aos que desejarem saber como foi a semana de integração de fevereiro de 2023, 
 
 : !!! Inscrições
 
-        _O Insper ainda irá divulgar o link de inscrição para essa atividade, retorne ao site em breve ou visite https://www.insper.edu.br/graduacao/semana-de-boas-vindas/ para verificar se o link já está disponível_
+        _Inscreva-se pelo link a seguir:_
+        https://www.even3.com.br/dia_esportes_bv_20232/
 
 ### Quinta-feira, 10 de agosto:
 
@@ -126,13 +127,32 @@ O GAS é uma das organizações estudantis do Insper com uma das missões mais i
 
 ---
 
+### Perguntas e respostas
+
+**1. A semana de boas-vindas é obrigatória?**
+R: Não, mas é **extremamente recomendável** a participação de todos os calouros, tanto pela **integração** quanto pela **ambientação** ao Insper, evitando que vocês cheguem nas aulas perdidos ou sem conhecer bem a instituição.
+
+**2. Devo me preparar para passar o dia inteiro no Insper durante a semana de boas-vindas?**
+R: É o ideal e o que eu particularmente recomendo, sobretudo se você realmente desejar estar imerso em todas as atividades.
+
+**3. Como funciona a alimentação no Insper?**
+R: Durante a semana de boas-vindas o Insper costuma oferecer coffees breaks em algumas atividades, mas os alunos também possuem à disposição várias opções dentro dos prédios e nos arredores do câmpus para comprar snacks, alimentos ou almoçar. Dentro do Insper possuímos várias máquinas de autoatendimento com snacks, chocolates, energéticos, barrinhas, café etc, além de também possuirmos quiosques do The Coffee (2º andar do Prédio 1 - _haverá cupom de desconto especial para os calouros durante a semana de boas-vindas_), Açaí e Mr. Cheney Cookies (ambos no 3º andar do Prédio 1). Os restaurantes do Insper estão localizados no 5º andar do Prédio 1 (restaurante por kg) e no 6º andar do Prédio 2 (restaurante com prato feito).
+Além disso, na rua do Insper também é possível encontrar ao menos outros 5 restaurantes (com preços variados, mas, no geral, menores que os dos restaurantes Insper). _Eu gravei o vídeo a seguir mostrando pelo Google Maps algumas das opções nos arredores do câmpus para vocês ficarem mais ligados:_
+
+<iframe width="1343" height="480" src="https://www.youtube.com/embed/9MlKjn3vIOo" title="Opções de alimentação e restaurantes nos arredores do Insper (agosto de 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+**4. Estou com problemas envolvendo links de inscrição, pagamento de boleto ou qualquer outra coisa operacional envolvendo o Insper, como resolvo?**
+R: Liguem no Insper para pedirem ajuda. Eu não sou um canal oficial da instituição e desenvolvi tudo isso visando auxiliar vocês, calouros. Para solucionar problemas ou sanar possíveis dúvidas mais específicas, entrem em contato diretamente com o Insper.
+
+---
+
 É isso aí, raposada! Assim chegamos ao final da semana de boas-vindas da graduação de vocês! Espero do fundo do meu coração que cada um de vocês **aproveite AO MÁXIMO** essa oportunidade de se ambientar/integrar melhor ao Insper e, mais uma vez, **SEJAM MUITÍSSIMO BEM-VINDOS AO INSPER!**
 
 Até breve!
 
 ---
 
-Conteúdo escrito com carinho pelo veterano de vocês,
+Conteúdo escrito voluntariamente com carinho pelo veterano de vocês,
 
 **_Lister Ogusuku Ribeiro | @insperinside_**
 
