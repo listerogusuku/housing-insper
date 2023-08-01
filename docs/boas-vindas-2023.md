@@ -26,7 +26,8 @@ Obs: Esse evento exige inscrição dos pais para que o Insper possa alocar da me
 
 : !!! Inscrições
 
-        _O Insper ainda irá divulgar o link de inscrição para essa atividade, retorne ao site em breve ou visite https://www.insper.edu.br/graduacao/semana-de-boas-vindas/ para verificar se o link já está disponível_
+        _Inscrições no link a seguir:_
+        https://www.even3.com.br/boas_vindas_com_pais_responsaveis/
 
 ### Terça-feira, 8 de agosto:
 
