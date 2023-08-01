@@ -225,6 +225,9 @@ nav:
   #   - Tooltips: reference/tooltips.md
   - Toca da Raposa (para bolsistas integrais): toca-da-raposa.md
     # - insiders/index.md
+
+  - Semana de Boas-vindas:
+    - A SEMANA DE BOAS-VINDAS: boas-vindas-2023.md
   #   - Getting started:
   #     - Installation: insiders/getting-started.md
   #     - Changelog: insiders/changelog.md
