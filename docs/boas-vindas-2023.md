@@ -76,8 +76,7 @@ Aos que desejarem saber como foi a semana de integração de fevereiro de 2023, 
 
 : !!! Inscrições
 
-        _Inscreva-se pelo link a seguir:_
-        https://www.even3.com.br/dia_esportes_bv_20232/
+        _NÃO HÁ MAIS NECESSIDADE DE INSCRIÇÃO NESSA ATIVIDADE, BASTA IR AO INSPER QUE VOCÊ SERÁ INCLUÍDO NAS ATIVIDADES QUE DESEJAR!!_
 
 ### Quinta-feira, 10 de agosto:
 

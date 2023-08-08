@@ -207,7 +207,7 @@ nav:
   #     - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
   #   - Dependencies:
   #     - setup/dependencies/image-processing.md
-  - Vagas em apartamentos divulgadas por alunos do Insper: vagas-aptos-insper.md
+  - Vagas divulgadas por alunos do Insper: vagas-aptos-insper.md
   #   - Admonitions: reference/admonitions.md
   #   - Annotations: reference/annotations.md
   #   - Buttons: reference/buttons.md
@@ -231,12 +231,5 @@ nav:
   #   - Getting started:
   #     - Installation: insiders/getting-started.md
   #     - Changelog: insiders/changelog.md
-  # - Blog:
-  #   - blog/index.md
-  #   - 2022:
-  #     - blog/posts/blog-support-just-landed.md
-  #     - blog/posts/chinese-search-support.md
-  #   - 2021:
-  #     - blog/posts/the-past-present-and-future.md
-  #     - blog/posts/excluding-content-from-search.md
-  #     - blog/posts/search-better-faster-smaller.md
+  - Entidades:
+    - ORGANIZAÇÕES ESTUDANTIS: entidades.md
